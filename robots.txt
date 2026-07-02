@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gleaming-kangaroo-eeb64c.netlify.app/sitemap.xml
